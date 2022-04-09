@@ -6,7 +6,7 @@
 #include <queue>
 #include "strutils.h"
 // Mehmet Faruk Komurculer
-// 25061
+
 using namespace std;
 class Node
 {
